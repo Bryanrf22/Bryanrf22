@@ -1,16 +1,33 @@
-## Hi there 👋
+# Bryan
 
-<!--
-**Bryanrf22/Bryanrf22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems Engineering student focused on software development, database systems, and backend technologies.
 
-Here are some ideas to get you started:
+I have experience working with technologies such as **C#**, **.NET**, **SQL Server**, and **Visual Studio 2022**, along with knowledge in relational databases, ETL processes, and data-oriented solutions. I am continuously improving my skills through academic projects and personal development work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests include:
+- Backend development
+- Database design and management
+- ETL and data integration processes
+- Software architecture and clean code practices
+- Web application development
+
+## Technologies & Tools
+- C#
+- .NET
+- SQL Server
+- SSIS
+- HTML & CSS
+- Visual Studio 2022
+- Git & GitHub
+
+## Goals
+Currently focused on strengthening my technical foundations, improving problem-solving skills, and building projects that contribute to my growth as a software developer.
+
+---
+
+Always learning, building, and improving.
+
+---
+
+## GitHub stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bryanrf22&theme=dark)](https://git.io/streak-stats)
