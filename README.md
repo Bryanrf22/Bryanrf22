@@ -1,33 +1,47 @@
-# Hey, I'm Bryan
+# Hi, I'm Bryan
 
-I'm an Information Systems Engineering student with a strong interest in **backend development** and **software development**.
+Backend developer focused on **C# and .NET**. I'm an Information Systems
+Engineering student in Nicaragua, and I build web applications and APIs with
+ASP.NET Core.
 
-Most of the time, you'll find me working with **C# / .NET / ASP.NET Core**. I'm most comfortable on the backend, but I like understanding enough of the rest of the stack to build complete solutions when needed.
+I care about the parts that are easy to skip: data modeling, authorization,
+tests, and documentation that lets someone else run the project.
 
-I learn best by actually building things, breaking them, figuring out why they broke, and trying to build them a little better the next time.
+**Open to remote backend roles** · UTC-6 (America/Managua) · English (professional), Spanish (native)
 
-### 🧩 My main stack
+### Stack
 
-**Backend:** C# · .NET · ASP.NET Core
-**Database:** SQL · SQL Server
-**Tools:** Git · GitHub · Visual Studio
+`C#` · `.NET` · `ASP.NET Core` · `EF Core` · `SQL Server` · `SQLite` · `.NET MAUI` · `Docker` · `Git`
 
-### 🌱 Currently learning
+### Featured projects
 
-* JavaScript
-* Node.js
+**[TaskFlow](https://github.com/Bryanrf22/TASKFLOW)**
+Task and project management app built on a layered .NET architecture.
+ASP.NET Identity with role-based authorization, rate limiting, Serilog logging,
+SQLite in development and SQL Server in production, covered by 152 unit and
+integration tests.
 
-### 💭 How I like to work
+**[DulceRelax](https://github.com/Bryanrf22/DulceRelax)**
+Booking system for a massage business: an ASP.NET Core API with two .NET MAUI
+clients, one for customers and one for staff, including offline support and push
+notifications.
 
-* I prefer understanding **why** something works, not just making it work.
-* When something doesn't fit the environment I'm working in, I usually try to understand the problem and adapt instead of blindly following a tutorial.
-* I value realistic solutions over ambitious ideas that never make it to the finish line.
-* I'm still learning, so this profile is very much a **work in progress**.
+**[Integrador V](https://github.com/Bryanrf22/Integrador-V)**
+Sales forecasting for a print shop. SQL Server as the source of truth, an SSIS
+pipeline for the ETL, and a Random Forest model served from R.
 
-### 🚧 What I'm working toward
+### How I work
 
-Becoming a stronger backend developer, going deeper into .NET and software architecture, and eventually building projects that are worth showing off without needing a giant README to explain why they're cool.
+- I want to understand **why** something works, not just that it compiles.
+- I test and document what I ship, so the next person can run it.
+- I prefer small solutions that actually ship over ambitious ones that never do.
+
+### Currently
+
+- Going deeper into software architecture and automated testing with .NET.
+- Building my portfolio site with Vite and Tailwind CSS.
+- Writing project documentation that stands on its own, without a walkthrough.
 
 ---
 
-📫 **LinkedIn:** [Bryan R.](www.linkedin.com/in/bryan-r-115421438)
+📫 [bryanromerof26@gmail.com](mailto:bryanromerof26@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bryan-r-115421438)
