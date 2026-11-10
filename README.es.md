@@ -42,7 +42,6 @@ pipeline SSIS para el ETL y un modelo Random Forest servido desde R.
 ### Actualmente
 
 - Profundizando en arquitectura de software y pruebas automatizadas con .NET.
-- Construyendo mi portafolio con Vite y Tailwind CSS.
 - Escribiendo documentación de proyectos que se sostiene sola, sin necesidad de explicarla.
 
 ---
