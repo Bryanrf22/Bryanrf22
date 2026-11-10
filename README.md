@@ -41,7 +41,6 @@ pipeline for the ETL, and a Random Forest model served from R.
 ### Currently
 
 - Going deeper into software architecture and automated testing with .NET.
-- Building my portfolio site with Vite and Tailwind CSS.
 - Writing project documentation that stands on its own, without a walkthrough.
 
 ---
